@@ -19,7 +19,7 @@ const NavBar = () => {
           <Link route={route} key={route.id} />
         ))
   return (
-    <nav className=" relative z-50 flex justify-between mx-10 ">
+    <nav className="flex justify-between mx-10 mt-10">
       <span className = "flex" onClick={() => setOpen(!open)}>
         {open ? <X className="md:hidden"></X>:
          <Menu className="md:hidden"></Menu>

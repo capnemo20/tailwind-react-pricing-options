@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "name": "Essential",
+    "slug": "essential",
+    "price": 29.99,
+    "currency": "£",
+    "billingCycle": "month",
+    "billingText": "/month",
+    "description": "For self-motivated training with great equipment.",
+    "contract": "12-month or £39.99 rolling",
+    "isPopular": false,
+    "badge": null,
+    "ctaText": "Join Essential",
+    "information": {
+      "accessHours": "5am - 11pm, 7 days",
+      "joiningFee": 25,
+      "idealFor": "Budget & independent members",
+      "saving": null
+    },
+    "features": [
+      "Unlimited gym access 5am-11pm",
+      "Weights, cardio & functional area",
+      "Free induction & workout plan",
+      "Member app with tracking"
+    ],
+    "notIncluded": ["Group classes", "Guest passes"]
+  },
+  {
+    "id": 2,
+    "name": "PLUS",
+    "slug": "plus",
+    "price": 44.99,
+    "currency": "£",
+    "billingCycle": "month",
+    "billingText": "/month",
+    "description": "Best value with classes and flexibility.",
+    "contract": "Rolling monthly, cancel anytime",
+    "isPopular": true,
+    "badge": "MOST POPULAR",
+    "ctaText": "Join PLUS",
+    "information": {
+      "accessHours": "5am - 11pm, 7 days",
+      "joiningFee": 25,
+      "idealFor": "Most members - 80% choose this",
+      "saving": "Best Value"
+    },
+    "features": [
+      "Everything in Essential",
+      "Unlimited group classes (HIIT, Yoga, Spin)",
+      "2x Free guest passes / month",
+      "Monthly body composition scan",
+      "Freeze membership up to 2 months/year"
+    ],
+    "notIncluded": []
+  },
+  {
+    "id": 3,
+    "name": "Elite",
+    "slug": "elite",
+    "price": 69.99,
+    "currency": "£",
+    "billingCycle": "month",
+    "billingText": "/month",
+    "description": "Maximum support for maximum results.",
+    "contract": "Rolling monthly, no joining fee",
+    "isPopular": false,
+    "badge": "BEST RESULTS",
+    "ctaText": "Go Elite",
+    "information": {
+      "accessHours": "24/7 Access",
+      "joiningFee": 0,
+      "idealFor": "Fast transformation & PT support",
+      "saving": "No joining fee"
+    },
+    "features": [
+      "Everything in PLUS",
+      "2x Personal Training sessions / month",
+      "Monthly 1-1 goal review",
+      "Sauna & recovery access",
+      "Priority class booking & towel service"
+    ],
+    "notIncluded": []
+  }
+]
