@@ -19,17 +19,20 @@ const NavBar = () => {
           <Link route={route} key={route.id} />
         ))
   return (
-    <nav className="flex justify-between mx-10">
+    <nav className=" relative z-50 flex justify-between mx-10 ">
       <span className = "flex" onClick={() => setOpen(!open)}>
         {open ? <X className="md:hidden"></X>:
          <Menu className="md:hidden"></Menu>
          }
-        <ul className="md:hidden">
+        <ul className={`md:hidden duration-1000 text-black
+          absolute 
+          ${open?"top-8":"-top-40" }
+           bg-amber-200`}>
           {links}
         </ul>
         <h3 className="ml-4">My NavBar</h3>
       </span>
-      <ul className="md:flex hidden">
+      <ul className="md:flex hidden ">
         {
           links
         }
