@@ -25,6 +25,7 @@
   {
     "id": 2,
     "name": "PLUS",
+    "popular": true,
     "slug": "plus",
     "price": 44.99,
     "currency": "£",
