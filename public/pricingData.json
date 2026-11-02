@@ -7,7 +7,7 @@
     "currency": "£",
     "billingCycle": "month",
     "billingText": "/month",
-    "description": "For training with great equipment.",
+    "description": "For self-motivated training with great equipment.",
     "contract": "12-month or £39.99 rolling",
     "isPopular": false,
     "badge": null,
@@ -15,16 +15,12 @@
     "information": {
       "accessHours": "5am - 11pm, 7 days",
       "joiningFee": 25,
-      "idealFor": "Budget & independent members",
-      "saving": null
+      "idealFor": "Budget & independent members"
     },
     "features": [
       "Unlimited gym access 5am-11pm",
-      "Weights, cardio & functional area",
-      "Free induction & workout plan",
-      "Member app with tracking"
-    ],
-    "notIncluded": ["Group classes", "Guest passes"]
+      "Free induction & workout plan"
+    ]
   },
   {
     "id": 2,
@@ -42,17 +38,12 @@
     "information": {
       "accessHours": "5am - 11pm, 7 days",
       "joiningFee": 25,
-      "idealFor": "Most members - 80% choose this",
-      "saving": "Best Value"
+      "idealFor": "Most members - 80% choose this"
     },
     "features": [
-      "Everything in Essential",
       "Unlimited group classes (HIIT, Yoga, Spin)",
-      "2x Free guest passes / month",
-      "Monthly body composition scan",
-      "Freeze membership up to 2 months/year"
-    ],
-    "notIncluded": []
+      "2x Free guest passes per month"
+    ]
   },
   {
     "id": 3,
@@ -62,7 +53,7 @@
     "currency": "£",
     "billingCycle": "month",
     "billingText": "/month",
-    "description": "Maximum support for  results.",
+    "description": "Maximum support for maximum results.",
     "contract": "Rolling monthly, no joining fee",
     "isPopular": false,
     "badge": "BEST RESULTS",
@@ -70,16 +61,11 @@
     "information": {
       "accessHours": "24/7 Access",
       "joiningFee": 0,
-      "idealFor": "Fast transformation & PT support",
-      "saving": "No joining fee"
+      "idealFor": "Fast transformation & PT support"
     },
     "features": [
-      "Everything in PLUS",
-      "2x Personal Training sessions / month",
-      "Monthly 1-1 goal review",
-      "Sauna & recovery access",
-      "Priority class booking & towel service"
-    ],
-    "notIncluded": []
+      "2x Personal Training sessions per month",
+      "Sauna & recovery access"
+    ]
   }
 ]

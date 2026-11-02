@@ -5,7 +5,7 @@ import PricingFeature from './PricingFeature';
 const PricingCard = ({pricing}) => {
     const {name, price, description, features, currency} = pricing;
     return (
-        <div className="border bg-cyan-800 rounded-3xl m-2 p-1">
+        <div className="border bg-cyan-800 rounded-3xl m-2 p-1 h-100 flex flex-col flex-1" >
             {/* card header */}
             <div className="p-2">
                 <h1 className="text-5xl">{name}</h1>
@@ -21,6 +21,7 @@ const PricingCard = ({pricing}) => {
                     ></PricingFeature>)
                 }
             </div>
+            <button className="btn w-full mt-4">Subscribe</button>
         </div>
     );
 };
