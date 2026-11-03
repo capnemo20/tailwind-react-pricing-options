@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "James", "marks": { "physics": 85, "maths": 92, "chemistry": 78 } },
+  { "id": 2, "name": "Olivia", "marks": { "physics": 76, "maths": 88, "chemistry": 81 } },
+  { "id": 3, "name": "Liam", "marks": { "physics": 91, "maths": 95, "chemistry": 89 } },
+  { "id": 4, "name": "Emily", "marks": { "physics": 68, "maths": 74, "chemistry": 70 } },
+  { "id": 5, "name": "Noah", "marks": { "physics": 82, "maths": 79, "chemistry": 85 } },
+  { "id": 6, "name": "Ava", "marks": { "physics": 90, "maths": 86, "chemistry": 92 } },
+  { "id": 7, "name": "Ethan", "marks": { "physics": 55, "maths": 62, "chemistry": 58 } },
+  { "id": 8, "name": "Mia", "marks": { "physics": 78, "maths": 81, "chemistry": 84 } },
+  { "id": 9, "name": "Lucas", "marks": { "physics": 88, "maths": 90, "chemistry": 87 } },
+  { "id": 10, "name": "Isabella", "marks": { "physics": 73, "maths": 77, "chemistry": 75 } }]
